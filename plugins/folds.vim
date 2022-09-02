@@ -1,4 +1,4 @@
-"fold markers
+"insert fold markers (while typing)
 inoremap {1 <!--{{{1 --><esc>bb3hzzi
 inoremap {2 <!--{{{2 --><esc>bb3hzzi
 inoremap {3 <!--{{{3 --><esc>bb3hzzi
